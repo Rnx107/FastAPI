@@ -64,3 +64,12 @@
 
 * FastAPI automatically generates API documentation at `/docs`.
 * Alternative API documentation is available at `/redoc`.
+--
+## Day 2
+### Notes
+
+* [x] Enable Jinja2 Templating
+* [x] pass parameters in HTML Rendering
+---
+* I learned Django in the past so skipped most of it 
+---
