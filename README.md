@@ -73,3 +73,8 @@
 ---
 * I learned Django in the past so skipped most of it 
 ---
+## Day 3/Day 4
+* [x] Created schemas.py file
+* [x] created pydantic schemas, inheritence with field validation and constraints.
+* [x] Enable response_models for documentation, validation and serilization
+---
